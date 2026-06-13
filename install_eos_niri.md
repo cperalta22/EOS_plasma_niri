@@ -217,4 +217,8 @@ flatpak install \
 
 - Usa los menus interactivos del shell para terminar de configurar
 
-```
+## Otros ajustes
+
+### habilitar sintesis de voz
+
+`systemctl --user enable --now speech-dispatcher.socket`
