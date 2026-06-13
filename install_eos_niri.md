@@ -103,7 +103,10 @@ Comenta lo que no utilices de aca abajo
 yay -S \
   zellij \
   flatpak \
-  sshfs
+  sshfs \
+  speech-dispatcher \
+  espeakup
+
 
 # GUI Essential Utilities
 yay -S \
