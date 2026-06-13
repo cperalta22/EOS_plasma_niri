@@ -103,14 +103,15 @@ Comenta lo que no utilices de aca abajo
 yay -S \
   zellij \
   flatpak \
+  sshfs
 
 # GUI Essential Utilities
 yay -S \
 #  xfce4-appfinder \
 #  rpi-imager \
-#  lxappearance \
   gnome-disk-utility \
   rofi \
+  rofi-themes-collection-git \
 #  gthumb
 
 # Additional System Monitors
@@ -166,10 +167,8 @@ yay -S \
 yay -S \
   openrgb \
   zotero-bin \
-#  zsh-autosuggestions \
   tailscale \
-#tailscale-systray-git \
-  xf86-input-wacom \
+#  xf86-input-wacom \
   igv \
   proxy-ns \
   syncthing \
@@ -184,9 +183,7 @@ yay -S \
   texlive-latexextra \
   texlive-fontutils \
   texlive-xetex \
-# ttf-ms-win11-auto \ NO SIRVE!!!!!
-#  kdeconnect \
-#  dolphin \
+  ttf-ms-fonts \ 
   ttf-google
 
 flatpak install \
