@@ -213,4 +213,8 @@ flatpak install \
 - Seguir [instrucciones](https://github.com/niri-wm/niri/wiki/Getting-Started) actualizadas
 - Despues de la instalación copiar configuración con `cp config.kdl  ~/.config/niri/config.kdl`
 
+## Configurar DMS
+
+- Usa los menus interactivos del shell para terminar de configurar
+
 ```
