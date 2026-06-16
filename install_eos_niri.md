@@ -8,7 +8,7 @@
 
 ```bash
 yay -Syu
-yay -S zsh nvim fastfetch btop rocm-smi-lib eza bat fzf github-cli pacseek ttf-iosevka-nerd otf-font-awesome gum tree
+yay -S zsh nvim fastfetch btop rocm-smi-lib eza bat fzf github-cli pacseek ttf-iosevka-nerd otf-font-awesome gum tree alacritty-smooth-cursor-git
 ```
 
 - Instalar [oh-my-zsh](https://ohmyz.sh/#install)
