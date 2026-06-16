@@ -11,6 +11,10 @@ yay -Syu
 yay -S zsh nvim fastfetch btop rocm-smi-lib eza bat fzf github-cli pacseek ttf-iosevka-nerd otf-font-awesome gum tree alacritty-smooth-cursor-git
 ```
 
+
+
+## SHELL y APPS elementales 
+
 - Instalar [oh-my-zsh](https://ohmyz.sh/#install)
 - Reiniciar / logout-login
 
@@ -201,17 +205,16 @@ flatpak install \
 ```
 
 
-## Copiar configuraciones preexistentes
-
-- Ejecutar lo siguiente para copiar las configuraciones de alacritty y rofi
-
-`./cp_configs.sh`
-
-
 ## Instalar Niri y DMS
 
 - Seguir [instrucciones](https://github.com/niri-wm/niri/wiki/Getting-Started) actualizadas
-- Despues de la instalación copiar configuración con `cp config.kdl  ~/.config/niri/config.kdl`
+- A continuación instalamos los ajustes adicionales 
+
+```bash
+curl -fsSL https://install.danklinux.com | sh
+```
+
+- finalmente ejecutamos `./cp_configs.sh` para incorporar los binds y configuraciones de alacritty y rofi
 
 ## Configurar DMS
 
