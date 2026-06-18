@@ -8,7 +8,7 @@
 
 ```bash
 yay -Syu
-yay -S zsh nvim fastfetch btop rocm-smi-lib eza bat fzf github-cli pacseek ttf-iosevka-nerd otf-font-awesome gum tree alacritty-smooth-cursor-git qt6ct-kde adw-gtk-theme npm python-pipx nwg-look
+yay -S zsh nvim fastfetch btop rocm-smi-lib eza bat fzf github-cli pacseek ttf-iosevka-nerd otf-font-awesome gum tree alacritty-smooth-cursor-git qt6ct-kde adw-gtk-theme npm python-pipx nwg-look ffmpeg 7zip jq poppler fd ripgrep zoxide resvg imagemagick wl-clipboard
 ```
 
 
@@ -45,7 +45,7 @@ alias j="jump"
 #alias pss="/home/cpa/repos/my_configs/scripts/pss.sh"
 #alias pskill="/home/cpa/repos/my_configs/scripts/pskill.sh"
 alias dfh='df -h | grep -v tmp'
-alias here="dolphin . &"
+alias here="nautilus . &"
 #alias opentunel="sed -i 's/^#//' /storage/Sync/tunel/tunel.sh && watch -d cat /storage/Sync/tunel/tunel.sh"
 #alias aluxeproxy="ssh aluxelocal -D 1080 -N"
 alias lsblk="lsblk -o NAME,MODEL,SIZE,MOUNTPOINT,FSTYPE,LABEL"
