@@ -8,6 +8,7 @@
 
 ```bash
 yay -Syu
+
 yay -S zsh nvim fastfetch btop rocm-smi-lib eza bat fzf github-cli pacseek ttf-iosevka-nerd otf-font-awesome gum tree alacritty-smooth-cursor-git qt6ct-kde adw-gtk-theme npm python-pipx nwg-look ffmpeg 7zip jq poppler fd ripgrep zoxide resvg imagemagick wl-clipboard
 ```
 
