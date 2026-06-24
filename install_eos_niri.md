@@ -8,7 +8,7 @@
 
 ```bash
 yay -Syu
-yay -S zsh nvim fastfetch btop rocm-smi-lib eza bat fzf github-cli pacseek ttf-iosevka-nerd otf-font-awesome gum tree alacritty-smooth-cursor-git qt6ct nautilus-git ffmpeg 7zip jq poppler fd ripgrep zoxide resvg imagemagick wl-clipboard chafa
+yay -S 7zip adw-gtk-theme alacritty-smooth-cursor-git bat btop cava chafa cups-pk-helper eza fastfetch fd ffmpeg fzf github-cli gum imagemagick jq nautilus-git npm nvim nwg-look otf-font-awesome pacseek poppler python-pipx qt6ct qt6ct-kde resvg ripgrep rocm-smi-lib tree ttf-iosevka-nerd wl-clipboard zoxide zsh
 ```
 
 
